@@ -41,13 +41,17 @@ It is suitable for learning cybersecurity fundamentals and SOC analyst concepts.
 
 ## How to Run
 
-Install dependencies:
+1. Install dependencies:
 
+```bash
 pip install scapy
+```
 
-Run the program with administrator/root privileges:
+2. Run the program with administrator/root privileges:
 
+```bash
 python main.py
+```
 
 Note: Packet sniffing requires elevated permissions.
 
