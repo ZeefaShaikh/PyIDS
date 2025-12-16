@@ -41,39 +41,25 @@ It is suitable for learning cybersecurity fundamentals and SOC analyst concepts.
 
 ## How to Run
 
-1. Install dependencies:
+Install dependencies:
 
-    ```bash
-    pip install scapy
+pip install scapy
 
-  2.Run the program with administrator/root privileges:
+Run the program with administrator/root privileges:
 
-     
-    python main.py
-
+python main.py
 
 Note: Packet sniffing requires elevated permissions.
 
+---
+
 ## Disclaimer
 
-This project is intended strictly for educational purposes.
+This project is intended strictly for educational purposes.  
 It only monitors network traffic on the local system and does not perform any offensive or malicious actions.
+
+---
 
 ## Author
 
 Zeefa Shaikh
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
